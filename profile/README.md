@@ -3,8 +3,8 @@
 # RiiDii.md
 
 An independent Ukrainian workshop building local-first, Markdown-native tools
-for human-directed AI workflows — AgentnykMaisternia, mdmaid, mdmaid.desk,
-mdmaid.nvim, Tatami, and agentic-livebook.
+for human-directed AI workflows — AgentnykMaisternia, Kaji, mdmaid,
+mdmaid.desk, mdmaid.nvim, Tatami, and agentic-livebook.
 
 </div>
 
@@ -19,6 +19,9 @@ keep agentic work visible, portable, and useful.
 - [**AgentnykMaisternia**](https://github.com/riidii-md/agentnyk-maisternia) —
   an opinionated, provider-neutral workshop for configuring coding-agent
   harnesses.
+- [**Kaji**](https://github.com/riidii-md/kaji) — an AI-agent forge for
+  spec-driven development with distinct planning, implementation, and review
+  roles.
 - [**agentic-livebook**](https://github.com/riidii-md/agentic-livebook) —
   Markdown-native live learning books with agent integration.
 - [**mdmaid**](https://github.com/riidii-md/mdmaid) — a Markdown and Mermaid
