@@ -2,8 +2,9 @@
 
 # RiiDii.md
 
-An independent Ukrainian workshop for agentic tools, Markdown-native
-interfaces, and human-directed AI workflows.
+An independent Ukrainian workshop building local-first, Markdown-native tools
+for human-directed AI workflows — mdmaid, mdmaid.desk, mdmaid.nvim, Tatami,
+and agentic-livebook.
 
 </div>
 
